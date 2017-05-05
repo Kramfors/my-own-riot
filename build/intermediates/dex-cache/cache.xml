@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.6.1/efb0a36546aa8857ab8df358b106c1817e03cbee/retrofit-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/retrofit-1.6.1_a2a7d16e94a5c9b3e988fe18f04f08ab62cdbbe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/com.google.android.gms-play-services-ads-8.1.0_ca8e2ff2c2c61cbda9d4be7d3944c96e988dd050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/com.android.support-recyclerview-v7-23.3.0_6d3e44acadb15b3004fc5ceeeeb8bbf85f9f0a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.2.0/cb20062e14c523637b7643295418097b48cccec2/okhttp-urlconnection-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/okhttp-urlconnection-2.2.0_4e2b6f04fc3c7b6af03f5c8be946696f21c9601b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/ad21f2014fd7bbc58706522d0d629307d08818be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_07d431e80969fa7dd25e6d48352475d3409e6adb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/433f8368bab10fa33e5ae99f055bc2320b2d9c82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_5620475d0c7432c9222758ea8549b6f42cec5b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/e211d933bfffe151e6098893d4a8121de46c53ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_be999288ce9bd2ae460fd65acd2798a4e9418b72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/84ae2ea7cc95186aca23a9527cc1b7a15c4efd05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_3315bee06733331ee0d0844b631c87eb5d579391.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/9fc44ef2801a5f183ade451eb973702cdad329ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="384f24ea65f11b5b324e9856301593a07cfd2de1">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_ee812339c590e5e96cb1f1b6da7130c308dc9e66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/7647a0542dc1bcfc77b610092fa93b9e09e5d910/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_3c63e597712410fac73790ad0b789c7f9ad5fb04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/a18f8dd886379851b93c36a4c7a99dd1a419e44f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_b203512b3e9f8d812f241af65eac4d1b4f0db1fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/com.android.support-appcompat-v7-23.3.0_94eb6fb62c353715a7a3fbc5937b69b6ce8db467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.2.0/cb20062e14c523637b7643295418097b48cccec2/okhttp-urlconnection-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/okhttp-urlconnection-2.2.0_4e2b6f04fc3c7b6af03f5c8be946696f21c9601b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.2.7-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1cdcf79e5f1fb072c29df3719aad193c18485522">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/pl.droidsonroids.gif-android-gif-drawable-1.2.7-SNAPSHOT_5e3d9cc0fe092ba31b21c781ea5609074d54982a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/20e662f9aeb56744d068d4c69c17fc15ed4105a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e116f9ebd847ad1aa3159207069f67362055a6a">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_f2e3bf6c30945e4390cbbe448ea70e571bef6bd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/support-annotations-23.3.0_66233d8580ad5a893325de1dff20cf781b9c47fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/io.pristine/libjingle/9690/jars/libs/libjingle_peerconnection.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82f236819e8ab0e981faade809d488eae6e0e049">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/libjingle_peerconnection_1281304d52008d4d3872baef43a80d359dd0f49e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/gson-2.3_32b56a23cf70741bd0f17d941327b9592535796b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/com.android.support-design-23.3.0_6c348a51f64431fa4f6d5f58331116c6f174d8ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/e963349e02d49c7c135530492053c090823783fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_67aa985eef7df99e5b10c7bf7fd2275aac2f3705.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/internal_impl-23.3.0_e879a5db6442e59073d21317abee27cc11a60de4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/703d6849b199ce7dc7793eaa1ce8dffcf1c833b1/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/internal_impl-23.3.0_4898f4a444c6dd7abd7171ce43e471fddf2a5c40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/okio-1.2.0_4c136c229b970ed64afe9cacf63da6ab0cda13f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/545ee76ace6d5555c5094a1d6d1170513a5910de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_1c57d1b2f2c725c5e3c77ff9f171953c8dc1a1a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/matrix-sdk/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6e116f9ebd847ad1aa3159207069f67362055a6a">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/intermediates-exploded-aar-matrix-sdk_32265166c9df915ba463d7b6c2b130eabf6d42e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/ad31bf301d45890dcfc197702693c19f9ebfa688/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_3fdf67a6018c10ca34cbfd3417f5f61deb62cb56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.2.7-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4d291bf71756d04dbee7fbdff486c1d2bf4b0572">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/pl.droidsonroids.gif-android-gif-drawable-1.2.7-SNAPSHOT_5e3d9cc0fe092ba31b21c781ea5609074d54982a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/com.google.android.gms-play-services-basement-8.1.0_4ccbbcddc0963495949e00cf5d24bef7d99c6ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/com.google.android.gms-play-services-appindexing-8.1.0_584713e7ba0e8dc18e6272c10dc3243b04688857.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/support-annotations-23.3.0_66233d8580ad5a893325de1dff20cf781b9c47fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/olm-sdk/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="384f24ea65f11b5b324e9856301593a07cfd2de1">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/intermediates-exploded-aar-olm-sdk_633c356eb3df996b30cf7eeb6debdd9adb2922cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/com.google.android.gms-play-services-analytics-8.1.0_7dca5632a4ac1437f3b09f909409faf485306dea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/okhttp-2.2.0_5c826fc1a0ff4bffba9c229276329e3aaae9f3d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/okio-1.2.0_4c136c229b970ed64afe9cacf63da6ab0cda13f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/com.android.support-support-vector-drawable-23.3.0_9ca07318314abea66f64f5b6415f3b6806696b94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/com.android.support-support-v4-23.3.0_b7b994f72bd2f4c8281689e9ff0f2bb7ecd09535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/gson-2.3_32b56a23cf70741bd0f17d941327b9592535796b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/8.0.1/8b7757d81e04f6128d93aba2e74c5161553ce8c9/libphonenumber-8.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8b7757d81e04f6128d93aba2e74c5161553ce8c9">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/libphonenumber-8.0.1_29339b786ba38d94f971963d51f7cb0d0959c676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/com.android.support-cardview-v7-23.3.0_313f8c67139d78e3b7a5e93e0e7b66fe6c4e3c2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ffefd088682a655f7af7f34b22fc21e6ee2e34b">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/me.leolin-ShortcutBadger-1.1.2_424345922210840776c510444fd80dce8f2006a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/com.google.android.gms-play-services-base-8.1.0_226369307ae5189642cf7ed9ccaa47e4a116bf89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/01e381c1206259aacaa7f397c350ebdeb222c189/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ffefd088682a655f7af7f34b22fc21e6ee2e34b">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_6642bdd4c38f2e7613e972869cfbd438df64690d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.6.1/efb0a36546aa8857ab8df358b106c1817e03cbee/retrofit-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/retrofit-1.6.1_a2a7d16e94a5c9b3e988fe18f04f08ab62cdbbe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/com.google.android.gms-play-services-gcm-8.1.0_0a88f2a17536e2d3bf9940587939bb842901cecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/8.0.1/8b7757d81e04f6128d93aba2e74c5161553ce8c9/libphonenumber-8.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8b7757d81e04f6128d93aba2e74c5161553ce8c9">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/libphonenumber-8.0.1_29339b786ba38d94f971963d51f7cb0d0959c676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/31d91793647ebf9158d46730d19f4f9b482ecbd0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_9fba48df1c6c4a4baaba0eafafd42f2cae12f8be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/b498262855f62c46473ebf200802a2c6a9cca6e9/output/jars/libs/libjingle_peerconnection.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82f236819e8ab0e981faade809d488eae6e0e049">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/libjingle_peerconnection_391194c32f64d97cbef217d8a61830fc50c00303.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/e35aba4a2ad34ab4bb86d6ac1c9623603c249498/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_300cb5c929927ba39add2175cf2f1ba6e6fe782e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/ceb9197ca44dabf4c1e92cf9105b78128f5e22de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_f726b607f1b4a205270fb138bed40d8f2f205f9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/release/com.android.support-animated-vector-drawable-23.3.0_b7d09c2b9a8d6d390bc15df0c220f0905dbe3c5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/okhttp-2.2.0_5c826fc1a0ff4bffba9c229276329e3aaae9f3d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/patrick/.android/build-cache/703d6849b199ce7dc7793eaa1ce8dffcf1c833b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/patrick/Documents/communic8/riot-android/riot-android/vector/build/intermediates/pre-dexed/app/debug/classes_751550eeaa4b8706282134f1b7eea5d173a0036d.jar" />
+    </item>
+
+</items>
